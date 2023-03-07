@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fdisp%2F601014116770475.6068beff4640a.gif&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&tbnid=Ayf1SYgO6GGXAM&vet=12ahUKEwjVtvfD9sn9AhXG-HMBHVlfD2YQMygpegUIARCPAw..i&docid=hkdl7LLQcswitM&w=500&h=350&q=animated%20coding%20gif&ved=2ahUKEwjVtvfD9sn9AhXG-HMBHVlfD2YQMygpegUIARCPAw">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanigim&label=Profile%20views&color=0e75b6&style=flat" alt="shivanigim" /> </p>
-
 - 🔭 I’m currently working in **Virtusa**
 
 - 🌱 I’m currently learning **Machine learning, MLOps and data science**
