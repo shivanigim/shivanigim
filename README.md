@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine learning, MLOps and data science**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1AgtVBwMrvdo4bS58Ej-gxjud1sm8sTcb/view?usp=sharing](https://drive.google.com/file/d/1AgtVBwMrvdo4bS58Ej-gxjud1sm8sTcb/view?usp=sharing)]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LchUWbUOOoPZ4mREwDb9tAuwnlZIVA7m/view?usp=sharing]
 
 - ⚡ Fun fact **I love travelling!**
 
