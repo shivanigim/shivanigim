@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Machine learning, MLOps and data science**
 
-- 👯 I’m looking to collaborate on **Data science projects**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AgtVBwMrvdo4bS58Ej-gxjud1sm8sTcb/view?usp=sharing](https://drive.google.com/file/d/1AgtVBwMrvdo4bS58Ej-gxjud1sm8sTcb/view?usp=sharing)
 
 - ⚡ Fun fact **I love travelling!**
