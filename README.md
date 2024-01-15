@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
 
-- 🔭 I’m currently working in **Virtusa**
+- 🔭 I’m currently studying  MS Applied Analytics in **Columbia University**
 
 - 🌱 I’m currently learning **Machine learning, MLOps and data science**
 
