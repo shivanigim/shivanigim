@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shivani Singh</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
 
 - 🔭 I’m currently studying  MS Applied Analytics in **Columbia University**
